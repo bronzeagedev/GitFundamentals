@@ -1,7 +1,8 @@
-Hello, Git
-So this is how we meet. 
+"Achievement is it's own reward. Pride obscures it."
 
-Please find in this document a list of all the git commands I can remember off the top of my head
+Please find in this document a list of git commands I have learned so far.
+
+This is a work in progress and will be updated periodically. 
 
 git
 git config
