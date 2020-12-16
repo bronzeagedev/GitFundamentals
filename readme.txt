@@ -1,13 +1,44 @@
-Oh golly jeepers mister!
-
-
 Hello, Git
-<<<<<<< HEAD
-This is an update to this file!!!
-Feature1: New
-=======
-This is an update to this file!!!
-Another fix for bug#1234
->>>>>>> bug1234
-Merge tool is fucking annoying
+So this is how we meet. 
+
+Please find in this document a list of all the git commands I can remember off the top of my head
+
+git
+git config
+git config --global user.name ""
+git config --global user.email ""
+
+git init
+
+git clone /path/
+
+git add "filename"
+git add*
+
+git commit -m "message"
+
+git push origin master
+git status
+git remote add origin <server>
+
+git remove -v
+
+git checkout <branchname>
+git branch
+git branch -d <branchname>
+git branch -D <branchname>
+git push origin <branchname>
+git push --all origin
+
+git pull
+git merge <branchname>
+
+git lga
+
+git checkout -- <filename>
+
+git fetch origin
+
+
+
 
