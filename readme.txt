@@ -39,6 +39,9 @@ git checkout -- <filename>
 
 git fetch origin
 
+git push origin <oldBranchName:newBranchName>
+git push origin<:branchToBeDeleted>
+
 
 
 
